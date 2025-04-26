@@ -1,0 +1,7 @@
+//los arcuivos que no quiero copiar
+
+    dist/
+    node_modules/
+    .gitignore
+
+    .git/
